@@ -7,12 +7,12 @@ function App() {
     <div className="App">
       <div className="container">
         <h1>Weather App</h1>
-        <Weather />
+        <Weather defaultCity="Munich" />
         <footer>
           This project was coded by{" "}
           <a href="#" target="_blank">
             AnYu Huang
-          </a>
+          </a>{" "}
           and is{" "}
           <a href="#" target="_blank">
             open-resourced
