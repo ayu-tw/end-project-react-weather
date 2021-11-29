@@ -3,6 +3,9 @@
   max-width: 500px;
 }
 
+.App .weatherApp {
+  text-align: center;
+}
 .App footer {
   font-size: 14px;
 }
