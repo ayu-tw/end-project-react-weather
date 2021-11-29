@@ -14,7 +14,10 @@ function App() {
             AnYu Huang
           </a>{" "}
           and is{" "}
-          <a href="#" target="_blank">
+          <a
+            href="https://github.com/ayu-tw/end-project-react-weather.git"
+            target="_blank"
+          >
             open-resourced
           </a>{" "}
           on GitHub
