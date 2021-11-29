@@ -10,11 +10,15 @@ function App() {
         <Weather defaultCity="Munich" />
         <footer>
           This project was coded by{" "}
-          <a href="https://loving-mcnulty-cc94fa.netlify.app" target="_blank">
+          <a
+            href="https://loving-mcnulty-cc94fa.netlify.app"
+            target="_blank"
+            rel="noreferrer"
+          >
             AnYu Huang
           </a>{" "}
           and is{" "}
-          <a href="/" target="_blank">
+          <a href="/" target="_blank" rel="noreferrer">
             open-resourced
           </a>{" "}
           on GitHub
