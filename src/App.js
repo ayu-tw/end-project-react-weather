@@ -15,7 +15,7 @@ function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/ayu-tw/end-project-react-weather.git"
+            href="https://github.com/ayu-tw/end-project-react-weather"
             target="_blank"
           >
             open-resourced
