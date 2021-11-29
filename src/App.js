@@ -10,7 +10,7 @@ function App() {
         <Weather defaultCity="Munich" />
         <footer>
           This project was coded by{" "}
-          <a href="#" target="_blank">
+          <a href="https://loving-mcnulty-cc94fa.netlify.app" target="_blank">
             AnYu Huang
           </a>{" "}
           and is{" "}
